@@ -1,3 +1,5 @@
+![banner](assets/banner.png)
+
 # Gabriel
 
 > Backend Engineer — Systems, Distributed Architectures, AI
